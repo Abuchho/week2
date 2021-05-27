@@ -1,0 +1,22 @@
+#red {
+    color: orangered;
+}
+
+.green {
+    color: mediumseagreen;
+}
+
+.big {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+}
+
