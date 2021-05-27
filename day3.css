@@ -34,7 +34,22 @@ body {
 
 }
 
-.cool-font {
-    font-family:'Big Shoulders Display', cursive;
+p#cool-font {
+    font-family:'Pacifico', cursive;
 }
 
+.border {
+    border: 3px solid steelblue;
+    border-radius: 25px;
+}
+
+.border {
+
+}
+
+.img {
+    background-image: url(https://images.unsplash.com/photo-1598294032141-b4818a331ad7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
